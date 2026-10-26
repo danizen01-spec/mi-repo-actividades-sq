@@ -4,7 +4,7 @@
 -- Fecha: 25/10/2026
 -- Sistema: SQLServer
 -- ══════════════════════════════════════════
-
+USE RetailChain
 -- ── CONSULTA 1: UNION ────────────────────
 -- Reporte de Catálogo Unificado
 -- Pregunta de negocio: ¿Qué productos únicos comercializa
